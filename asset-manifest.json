@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ty-mortimer/static/css/main.a7816950.css",
+    "main.js": "/ty-mortimer/static/js/main.c514884e.js",
+    "static/js/453.57f48817.chunk.js": "/ty-mortimer/static/js/453.57f48817.chunk.js",
+    "static/media/ty.jpeg": "/ty-mortimer/static/media/ty.91d65cf4d6f4d2a93733.jpeg",
+    "index.html": "/ty-mortimer/index.html",
+    "main.a7816950.css.map": "/ty-mortimer/static/css/main.a7816950.css.map",
+    "main.c514884e.js.map": "/ty-mortimer/static/js/main.c514884e.js.map",
+    "453.57f48817.chunk.js.map": "/ty-mortimer/static/js/453.57f48817.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7816950.css",
+    "static/js/main.c514884e.js"
+  ]
+}
