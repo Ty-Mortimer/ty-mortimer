@@ -19,7 +19,7 @@ function App() {
             <iframe
               width="100%"
               height="200"
-              src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+              src="https://www.youtube.com/embed/"
               title="YouTube video player"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -33,7 +33,7 @@ function App() {
             <iframe
               width="100%"
               height="200"
-              src="https://www.youtube.com/embed/gB8wSuAhfNs"
+              src="https://www.youtube.com/embed/"
               title="YouTube video player"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
