@@ -12,8 +12,8 @@ function App() {
     
         <div className="project-card">
           <div class="text">
-          <h3>Rick Rolloff</h3>
-          <p>This is a very important and special project to me. My mom always loved this and so i made this with tender loving care (please please please hire me)</p>
+          <h3>Learning Managment System</h3>
+          <p>This project involved creating a learning managment system for an after school program for girls in africa. We worked with our "client" (our professor) to work in sprints completing sections of the project in increments. It was a great learning opportunity to gather customer requirements, make a plan of the project, and piece by piece assemble it together.</p>
           </div>
           <div class="video">
             <iframe
@@ -41,8 +41,8 @@ function App() {
             </iframe>
           </div>
           <div class="text">
-          <h3>Minecraft</h3>
-          <p>This is a minecraft video because i'm addicted and I can't stop playing and i'm 3 years old</p>
+          <h3>Trackmate</h3>
+          <p>For this project a group of students worked to expand a previously made application for one of the staff at Weber State University. We expanded the program to be able to be used accross many departments, implemented more features our customer desired, and fixed bugs and other issues our customer found while using the program.</p>
           </div>
         </div>
       </section>
