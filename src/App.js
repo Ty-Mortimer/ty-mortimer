@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="hero">
         <h1>Ty Mortimer</h1>
-        <p>Programmer | husband | Friend</p>
+        <p>.Net | Django | SQL</p>
       </header>
 
       <section className="projects">
@@ -19,7 +19,7 @@ function App() {
             <iframe
               width="100%"
               height="200"
-              src="https://www.youtube.com/embed/"
+              src="https://www.youtube.com/embed/o4K8j4chVv4"
               title="YouTube video player"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -33,7 +33,7 @@ function App() {
             <iframe
               width="100%"
               height="200"
-              src="https://www.youtube.com/embed/"
+              src="https://www.youtube.com/embed/cE5ZBlqe_Ks"
               title="YouTube video player"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -51,7 +51,7 @@ function App() {
         <p>Connect with me:</p>
         <a href="mailto:tyorionmortimer@gmail.com">Email</a> | 
         <a href="https://linkedin.com/in/your-profile" target="_blank" rel="noreferrer">LinkedIn</a> | 
-        <a href="https://github.com/your-username" target="_blank" rel="noreferrer">GitHub</a>
+        <a href="https://github.com/ty-mortimer" target="_blank" rel="noreferrer">GitHub</a>
       </footer>
     </div>
   );
